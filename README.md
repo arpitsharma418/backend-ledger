@@ -33,8 +33,8 @@ A RESTful API for managing financial accounts and processing transactions using 
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/Backend-Ladger.git
-cd Backend-Ladger
+git clone https://github.com/<your-username>/Backend-ledger.git
+cd Backend-ledger
 npm install
 ```
 
