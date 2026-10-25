@@ -1,4 +1,4 @@
-# Backend Ledger
+# Double-Entry Financial Ledger System
 
 A RESTful API for managing financial accounts and processing transactions using a double-entry ledger system. Built with Node.js, Express, and MongoDB.
 
