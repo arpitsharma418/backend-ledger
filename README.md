@@ -80,7 +80,3 @@ npm start
 
 - `POST /api/transactions/` - Transfer funds between accounts
 - `POST /api/transactions/system/initial-funds` - Seed initial funds (system users only)
-
-## License
-
-ISC
