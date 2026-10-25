@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+build/
+
+# IDE and editor files
+.vscode/
